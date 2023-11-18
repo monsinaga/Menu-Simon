@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "menu-simon",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
